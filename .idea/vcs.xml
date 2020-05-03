@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ontip2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ontip_clone_azure" vcs="Git" />
   </component>
 </project>
